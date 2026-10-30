@@ -1,0 +1,470 @@
+[
+  {
+    "original": "GROUP_10_W1/README.md",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "9792e8202f5efb656c5db9ec9c7e58cd702c20ed4ae811305bbb396e2d97d227",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/README.md"
+  },
+  {
+    "original": "GROUP_10_W1/analysis/requirements.txt",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "ef57e87ba8dcde1f45604f96c585cedf79bcc998a1f4f63ac486de5430a96a5a",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/analysis/requirements.txt"
+  },
+  {
+    "original": "GROUP_10_W1/analysis/W1_emergency_visits.ipynb",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "df1251f8951b51c3dffff2a35087d4e8a05c1434a2173ad11e85019b5ca98338",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/analysis/W1_emergency_visits.ipynb"
+  },
+  {
+    "original": "GROUP_10_W1/report/GROUP_10_W1_Report.docx",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "47c0fc8201f8c8231c72c2ae0d18853c6a24a74d70cf0db86802017062be07c5",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/report/GROUP_10_W1_Report.docx"
+  },
+  {
+    "original": "GROUP_10_W1/report/GROUP_10_W1_Report.pdf",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "9516bff4ed4f45e4b8c0b97f49bd26daa3fd0377f18fd30cc9901734335aca45",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/report/GROUP_10_W1_Report.pdf"
+  },
+  {
+    "original": "GROUP_10_W1/data/clean/emergency_RM_2023_prepared.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "974cf934c5482f2efd99835dee55d0e824e280bf3c0ffe46a825294266388c82",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/clean/emergency_RM_2023_prepared.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/clean/emergency_RM_2024_prepared.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "cda10563e046eac2403be5dcc27e3e97be421f841eafad5d72fe646d387201ee",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/clean/emergency_RM_2024_prepared.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/inputs/emergency_RM_2023.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "0283f46a25ff580ab86822c656d47b2f6f8ea7f10b9db4462f8679692110186c",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/inputs/emergency_RM_2023.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/inputs/emergency_RM_2024.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "a832ce75dd0e8d98d60c9f4ee3d462c7d9273068ff97a460c3a0345bada66c16",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/inputs/emergency_RM_2024.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/source/AtencionesUrgencia2023.zip",
+    "preserved_at": "data/source/AtencionesUrgencia2023.zip",
+    "sha256": "b11e6214a381843904632e3aed75c4f04b7d7fc2c275b2da418eac6451192836",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_10_W1/data/source/AtencionesUrgencia2024.zip",
+    "preserved_at": "data/source/AtencionesUrgencia2024.zip",
+    "sha256": "aabe39d2f0f121aaf222f1d60b38bbaa34aabf9adf306f31d449834e8c6ca8f0",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_10_W1/data/source/Diccionario_AtencionesUrgencia.xlsx",
+    "preserved_at": "data/source/Diccionario_AtencionesUrgencia.xlsx",
+    "sha256": "f179a826b7a8e903a5cc44381dcf0fb1f5f6ff21beceebf434e07bb0d1e1a105",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_10_W1/data/source/sources.csv",
+    "preserved_at": "data/source/sources.csv",
+    "sha256": "8cb459f2c7c1aaea12cfbd52f2326c3a3950a1e416cdcb24b1b159c3eace7700",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/figures/A_daily_distribution.png",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "1c46154e47ca08858a48e2ba42fedb6721c16d2dc5ef217b8e0630f7cc51d474",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/figures/A_daily_distribution.png"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/figures/A_respiratory.png",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "c91b00353daef8ba0269184c5b22ec8bac7f86413baf76ee2764451955312337",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/figures/A_respiratory.png"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/figures/B_mental_health.png",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "a2b68d12a96c1234663a2c4035b218ff860254bef24cdb883623968b4031d728",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/figures/B_mental_health.png"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/before_after_validation.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "1258d1f89b2de14dc8d1f939f4294340fd6e91ac75c4a9f8b1f7f5435515953b",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/before_after_validation.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/coverage.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "7a8450f85dd9e1aa1dc975838cdb171b45020487c6a7abfcffa51df6e44c53b2",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/coverage.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/discrepancy_summary.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "2dbf3a572ed1e53c42272c77624cceac17207fdfbbf5b5e6a25e9b9d13bc0316",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/discrepancy_summary.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/extraction_summary.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "b1a660ca050316d8c423d63f18ceacc7e9690dca423df9944511097fa58fca8d",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/extraction_summary.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/hospital_coverage.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "bdbce4e4cc18238a2bf6abd900d07cb86556b1530669e6282a20ed076520ed52",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/hospital_coverage.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/mental_health_by_hospital.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "f402955b91226e29ee4ca95aac5a5a64867a4d744381770e3d1de98e797098f7",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/mental_health_by_hospital.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/mental_health_discrepancies.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "2becfb5b6c672276e05fc6131e7a74f661375c25b98656b95ea11d40a7b31447",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/mental_health_discrepancies.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/mental_health_summary.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "d597d74dc7649845513630aad56b6d8f7eeea313441593551e2a7b3ddfb6d899",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/mental_health_summary.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/missing_days.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "7d13ad0217421a69e3272b72526c64b765dbdf6720e5c5b28419f9171f8693fb",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/missing_days.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/panel_annual_totals.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "12dd2e50be32848f5cd2d4bc2a9551b049738023cbe1d601484aa06b9f0d0874",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/panel_annual_totals.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/quality_checks.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "71ccba637d2d792f9be601abc63916c5d426e1d3a3f14217ad4f50100696816d",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/quality_checks.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/respiratory_annual.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "15edb55f651b541276e820bb22314748adb9dfa3a9b742b3a23abc8bfb3eabdf",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/respiratory_annual.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/respiratory_daily_summary.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "1b1ae5083575eb91c61f9b7c9eec587017b64b491e15467f72b6a922abf32478",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/respiratory_daily_summary.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/respiratory_monthly.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "d6ced1ca3b1ba01e9398ecb97e3cc43e41d1b81c9a2393384cc5c878ee737f7f",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/respiratory_monthly.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/sensitivity.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "e5586e68f46e62f202c90c179c5bde0317faa8151be74057fe28ce3816cc8ada",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/sensitivity.csv"
+  },
+  {
+    "original": "GROUP_10_W1/data/outputs/tables/variable_profile.csv",
+    "preserved_at": "legacy/GROUP_10_W1.zip",
+    "sha256": "7a46bb6ac05d3f95ffabdbee9952b6e53b1da50f4fe56a66127c7e0e7449ecf8",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_10_W1/data/outputs/tables/variable_profile.csv"
+  },
+  {
+    "original": "GROUP_09_C1/README.md",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "617c8637e5f22d351ec53415beb0d86d1aee41be9bc3b43bf6c013e4ba7dde59",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/README.md"
+  },
+  {
+    "original": "GROUP_09_C1/analysis/C1_respiratory_emergency_visits.ipynb",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "98ad7a9c7f9cb6b8c84dd1cc7a3c54eeeaecdaad66e8f380507c2854ac7e66d1",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/analysis/C1_respiratory_emergency_visits.ipynb"
+  },
+  {
+    "original": "GROUP_09_C1/analysis/requirements.txt",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "04233d7c3d5fcc6e6647096f0b64295fedbe5a4ed62fe0a5d21b11931eccd7e8",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/analysis/requirements.txt"
+  },
+  {
+    "original": "GROUP_09_C1/presentation/GROUP_09_C1_Slides.pdf",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "243dcee0326a0a79b6133f4cb2533cc0a1e58832d7cc54afe08c3af66933a1b0",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/presentation/GROUP_09_C1_Slides.pdf"
+  },
+  {
+    "original": "GROUP_09_C1/report/GROUP_09_C1_Report.pdf",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "144b8effb12ffb519024331c7b10bb947356a4435df9731cfe5fff1d1cbe749a",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/report/GROUP_09_C1_Report.pdf"
+  },
+  {
+    "original": "GROUP_09_C1/data/clean/respiratory_RM_2023_prepared.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "56ef4824e78259608b3a7b405896cbf0b3489ff1cb422c5cdc3c0355534f671f",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/clean/respiratory_RM_2023_prepared.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/clean/respiratory_RM_2024_prepared.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "8bc2780bc8da39c58f4aa3be55bab069e814b444f18ae5b980565961b3209941",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/clean/respiratory_RM_2024_prepared.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/inputs/respiratory_RM_2023_raw.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "bb1e2bf612c1682031b10374d263d97a65addf2599bfc1d16700138c337683ae",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/inputs/respiratory_RM_2023_raw.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/inputs/respiratory_RM_2024_raw.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "f7caa151a47f51f63343ff1cbfa396f3f5f669a82696f41559073e0a2d59129c",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/inputs/respiratory_RM_2024_raw.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/source/AtencionesUrgencia2023.zip",
+    "preserved_at": "data/source/AtencionesUrgencia2023.zip",
+    "sha256": "b11e6214a381843904632e3aed75c4f04b7d7fc2c275b2da418eac6451192836",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_09_C1/data/source/AtencionesUrgencia2024.zip",
+    "preserved_at": "data/source/AtencionesUrgencia2024.zip",
+    "sha256": "aabe39d2f0f121aaf222f1d60b38bbaa34aabf9adf306f31d449834e8c6ca8f0",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_09_C1/data/source/Diccionario_AtencionesUrgencia.xlsx",
+    "preserved_at": "data/source/Diccionario_AtencionesUrgencia.xlsx",
+    "sha256": "f179a826b7a8e903a5cc44381dcf0fb1f5f6ff21beceebf434e07bb0d1e1a105",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_09_C1/data/source/sources.csv",
+    "preserved_at": "data/source/sources.csv",
+    "sha256": "8cb459f2c7c1aaea12cfbd52f2326c3a3950a1e416cdcb24b1b159c3eace7700",
+    "storage": "shared identical source"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/figures/age_groups.png",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "85d395db232713a297a2e30eb09ea23a11f815b1f203c2bc0543b563eadac497",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/figures/age_groups.png"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/figures/daily_distribution.png",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "1fbfac042ae23882136a525e08fc53fcbecc102347ff0a0be735e2edd0d5f52e",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/figures/daily_distribution.png"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/figures/hospital_changes.png",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "406aa37539cf5eb302afdf213cce91ceebd092623317ee1951b31fbd8b12ed70",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/figures/hospital_changes.png"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/figures/monthly_intensity.png",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "0f8f6684f67e7b072d5a4ef311e450daa6648ebd950c79bdaf3acad8cb6b90c4",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/figures/monthly_intensity.png"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/figures/monthly_share.png",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "e62fe80cf2faeec2bb21d5bb4eb352c59a399a53fa26fdf552ba940b5919ceba",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/figures/monthly_share.png"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/age_changes.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "3b7a48baa63bf4e8f42a954486b92cf22f98356362c6cd550a223e10ce668dd0",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/age_changes.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/age_groups.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "5d5890f625875e9f7903ba93c3bf7e806e864bcdbc1b2d8841b771d750f2e977",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/age_groups.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/annual.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "eaafe2e2dbeadb53a94680ba2c174e00bd857cb0f0dabfabd60814b6b1d957dc",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/annual.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/before_after_validation.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "b14923fce0601dd45fe5032e4ac2aa2c6780866b7d50b296591b532301e73a39",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/before_after_validation.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/cause_dictionary.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "91713a1f13af95ecaf9b3d81f400e0446341555e4e47c8fa11295feb4bd97f05",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/cause_dictionary.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/coverage.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "9621a8fcf2cbfb1c82d7ac1dd17d8c5956d12c6c66184ca6d6c6ab2ef59b5050",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/coverage.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/daily.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "067faa63dc7622bf58c5054e5d54bc55aaf8f36b6016ca466a3a4b9daf471f3c",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/daily.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/daily_summary.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "54bdee96ab365aef0d86225c000afe397820a15a1fc10ad69bab759cbe9c7d2a",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/daily_summary.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/extraction_summary.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "cfaef8001da9faecef511f3205311f4249cf2a6273e7abc82e8aba9511d0f061",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/extraction_summary.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/hospital_annual.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "5e9f20d298f19bbb2f276cad7d10da395db5569c6231a59df2407c85af9430ff",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/hospital_annual.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/hospital_changes.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "8a6a30436a2ca8f06d37f256804b50797a28646971cf2f6e944058271baf568f",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/hospital_changes.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/hospital_names.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "5169747112fa414a81b0bac7ee09f296f2d86ab41aac5db1ad8e19e9cd851152",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/hospital_names.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/missing_days.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "662df6b29c1aa38ccd2e749ad5b8f6dacc1556780b890f1114a831d65319c246",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/missing_days.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/monthly.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "572df7586c5e7e3e594471989eed191e009e7acd16309f7f7b92a2ee1deb063b",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/monthly.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/quality_checks.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "54a9e3f237613aecc84dcf12fdc386b1813f53f46943d3c6de053b40b577a556",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/quality_checks.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/sensitivity.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "b3f3ae359b5871414c975dc59c2c1860c8bd3acf1a1fbd674c66979e1e06db56",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/sensitivity.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/source_checksums.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "362f7792edfbfddbb1266582ca0520b90794312666b78689303288238042c23b",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/source_checksums.csv"
+  },
+  {
+    "original": "GROUP_09_C1/data/outputs/tables/variable_profile.csv",
+    "preserved_at": "legacy/GROUP_09_C1.zip",
+    "sha256": "556ce0cddc0413a714030661a90fb10b179175ab2e7ac086d17267e490f54ecb",
+    "storage": "unchanged artifact inside ZIP; sha256 refers to extracted member",
+    "archive_member": "GROUP_09_C1/data/outputs/tables/variable_profile.csv"
+  }
+]
