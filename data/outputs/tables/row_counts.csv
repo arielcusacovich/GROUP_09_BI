@@ -1,0 +1,6 @@
+stage,rows,hospitals,action
+Raw selected cause rows,37976,26,No source rows removed during cleaning
+Prepared cause rows,37976,26,Derived ID/date/count fields added
+Historical C1 cause rows,32164,22,Others retained for coverage sensitivity
+Historical excluded cause rows,5812,4,Not discarded
+Paired hospital-days,18988,26,Two causes reshaped to one row; no visits summed across causes

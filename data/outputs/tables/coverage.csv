@@ -1,0 +1,105 @@
+id,year,IdCausa,observed_days,expected_days,missing_days,complete_panel,hospital
+09-100,2023,1,365,365,0,False,"Complejo Hospitalario San José (Santiago, Independencia)"
+09-100,2023,2,365,365,0,False,"Complejo Hospitalario San José (Santiago, Independencia)"
+09-100,2024,1,365,366,1,False,"Complejo Hospitalario San José (Santiago, Independencia)"
+09-100,2024,2,365,366,1,False,"Complejo Hospitalario San José (Santiago, Independencia)"
+09-101,2023,1,365,365,0,True,"Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)"
+09-101,2023,2,365,365,0,True,"Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)"
+09-101,2024,1,366,366,0,True,"Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)"
+09-101,2024,2,366,366,0,True,"Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)"
+09-102,2023,1,363,365,2,False,"Instituto Psiquiátrico  Dr. José Horwitz Barak (Santiago, Recoleta)"
+09-102,2023,2,363,365,2,False,"Instituto Psiquiátrico  Dr. José Horwitz Barak (Santiago, Recoleta)"
+09-102,2024,1,357,366,9,False,"Instituto Psiquiátrico  Dr. José Horwitz Barak (Santiago, Recoleta)"
+09-102,2024,2,357,366,9,False,"Instituto Psiquiátrico  Dr. José Horwitz Barak (Santiago, Recoleta)"
+09-104,2023,1,365,365,0,False,Hospital de Til Til
+09-104,2023,2,365,365,0,False,Hospital de Til Til
+09-104,2024,1,361,366,5,False,Hospital de Til Til
+09-104,2024,2,361,366,5,False,Hospital de Til Til
+10-100,2023,1,365,365,0,True,"Hospital San Juan de Dios (Santiago, Santiago)"
+10-100,2023,2,365,365,0,True,"Hospital San Juan de Dios (Santiago, Santiago)"
+10-100,2024,1,366,366,0,True,"Hospital San Juan de Dios (Santiago, Santiago)"
+10-100,2024,2,366,366,0,True,"Hospital San Juan de Dios (Santiago, Santiago)"
+10-110,2023,1,365,365,0,True,Instituto Traumatológico Dr. Teodoro Gebauer
+10-110,2023,2,365,365,0,True,Instituto Traumatológico Dr. Teodoro Gebauer
+10-110,2024,1,366,366,0,True,Instituto Traumatológico Dr. Teodoro Gebauer
+10-110,2024,2,366,366,0,True,Instituto Traumatológico Dr. Teodoro Gebauer
+10-120,2023,1,365,365,0,True,Hospital Félix Bulnes Cerda
+10-120,2023,2,365,365,0,True,Hospital Félix Bulnes Cerda
+10-120,2024,1,366,366,0,True,Hospital Félix Bulnes Cerda
+10-120,2024,2,366,366,0,True,Hospital Félix Bulnes Cerda
+10-130,2023,1,365,365,0,True,Hospital Adalberto Steeger (Talagante)
+10-130,2023,2,365,365,0,True,Hospital Adalberto Steeger (Talagante)
+10-130,2024,1,366,366,0,True,Hospital Adalberto Steeger (Talagante)
+10-130,2024,2,366,366,0,True,Hospital Adalberto Steeger (Talagante)
+10-140,2023,1,365,365,0,True,Hospital de Peñaflor
+10-140,2023,2,365,365,0,True,Hospital de Peñaflor
+10-140,2024,1,366,366,0,True,Hospital de Peñaflor
+10-140,2024,2,366,366,0,True,Hospital de Peñaflor
+10-150,2023,1,365,365,0,True,Hospital San José (Melipilla)
+10-150,2023,2,365,365,0,True,Hospital San José (Melipilla)
+10-150,2024,1,366,366,0,True,Hospital San José (Melipilla)
+10-150,2024,2,366,366,0,True,Hospital San José (Melipilla)
+10-160,2023,1,365,365,0,True,Hospital de Curacaví
+10-160,2023,2,365,365,0,True,Hospital de Curacaví
+10-160,2024,1,366,366,0,True,Hospital de Curacaví
+10-160,2024,2,366,366,0,True,Hospital de Curacaví
+11-100,2023,1,365,365,0,True,Hospital Clínico San Borja Arriarán
+11-100,2023,2,365,365,0,True,Hospital Clínico San Borja Arriarán
+11-100,2024,1,366,366,0,True,Hospital Clínico San Borja Arriarán
+11-100,2024,2,366,366,0,True,Hospital Clínico San Borja Arriarán
+11-101,2023,1,365,365,0,True,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+11-101,2023,2,365,365,0,True,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+11-101,2024,1,366,366,0,True,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+11-101,2024,2,366,366,0,True,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+11-195,2023,1,365,365,0,True,Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río
+11-195,2023,2,365,365,0,True,Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río
+11-195,2024,1,366,366,0,True,Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río
+11-195,2024,2,366,366,0,True,Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río
+12-100,2023,1,365,365,0,True,"Hospital Del Salvador (Santiago, Providencia)"
+12-100,2023,2,365,365,0,True,"Hospital Del Salvador (Santiago, Providencia)"
+12-100,2024,1,366,366,0,True,"Hospital Del Salvador (Santiago, Providencia)"
+12-100,2024,2,366,366,0,True,"Hospital Del Salvador (Santiago, Providencia)"
+12-101,2023,1,365,365,0,True,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)"
+12-101,2023,2,365,365,0,True,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)"
+12-101,2024,1,366,366,0,True,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)"
+12-101,2024,2,366,366,0,True,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)"
+12-102,2023,1,365,365,0,True,"Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+12-102,2023,2,365,365,0,True,"Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+12-102,2024,1,366,366,0,True,"Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+12-102,2024,2,366,366,0,True,"Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+13-100,2023,1,365,365,0,True,"Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+13-100,2023,2,365,365,0,True,"Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+13-100,2024,1,366,366,0,True,"Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+13-100,2024,2,366,366,0,True,"Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+13-130,2023,1,365,365,0,True,"Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)"
+13-130,2023,2,365,365,0,True,"Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)"
+13-130,2024,1,366,366,0,True,"Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)"
+13-130,2024,2,366,366,0,True,"Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)"
+13-150,2023,1,365,365,0,True,Hospital San Luis (Buin)
+13-150,2023,2,365,365,0,True,Hospital San Luis (Buin)
+13-150,2024,1,366,366,0,True,Hospital San Luis (Buin)
+13-150,2024,2,366,366,0,True,Hospital San Luis (Buin)
+13-180,2023,1,365,365,0,True,"Hospital El Pino (Santiago, San Bernardo)"
+13-180,2023,2,365,365,0,True,"Hospital El Pino (Santiago, San Bernardo)"
+13-180,2024,1,366,366,0,True,"Hospital El Pino (Santiago, San Bernardo)"
+13-180,2024,2,366,366,0,True,"Hospital El Pino (Santiago, San Bernardo)"
+13-190,2023,1,365,365,0,True,Hospital Parroquial de San Bernardo (D)
+13-190,2023,2,365,365,0,True,Hospital Parroquial de San Bernardo (D)
+13-190,2024,1,366,366,0,True,Hospital Parroquial de San Bernardo (D)
+13-190,2024,2,366,366,0,True,Hospital Parroquial de San Bernardo (D)
+14-101,2023,1,365,365,0,True,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)"
+14-101,2023,2,365,365,0,True,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)"
+14-101,2024,1,366,366,0,True,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)"
+14-101,2024,2,366,366,0,True,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)"
+14-102,2023,1,364,365,1,False,Hospital San José de Maipo
+14-102,2023,2,364,365,1,False,Hospital San José de Maipo
+14-102,2024,1,366,366,0,False,Hospital San José de Maipo
+14-102,2024,2,366,366,0,False,Hospital San José de Maipo
+14-103,2023,1,365,365,0,True,Hospital Padre Alberto Hurtado (San Ramón)
+14-103,2023,2,365,365,0,True,Hospital Padre Alberto Hurtado (San Ramón)
+14-103,2024,1,366,366,0,True,Hospital Padre Alberto Hurtado (San Ramón)
+14-103,2024,2,366,366,0,True,Hospital Padre Alberto Hurtado (San Ramón)
+14-105,2023,1,365,365,0,True,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+14-105,2023,2,365,365,0,True,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+14-105,2024,1,366,366,0,True,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+14-105,2024,2,366,366,0,True,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza

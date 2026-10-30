@@ -1,0 +1,10 @@
+{
+  "fit_split": "train",
+  "fit_start": "2023-01-01",
+  "fit_end": "2023-12-31",
+  "fit_rows": 9487,
+  "feature": "lag7_resp",
+  "median": 11.0,
+  "mean_after_imputation": 19.420364709602612,
+  "std_after_imputation_ddof0": 23.966561649939358
+}

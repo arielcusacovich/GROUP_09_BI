@@ -1,0 +1,3 @@
+year,source_rows_scanned_this_run,selected_rows,columns,mode
+2023,8899080,18974,21,full-source
+2024,8973229,19002,21,full-source

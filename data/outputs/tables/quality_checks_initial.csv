@@ -1,0 +1,13 @@
+check,affected,status,action
+Missing source cells,0,PASS,Retained after check
+Missing or empty IDs,0,PASS,Retained after check
+Invalid or out-of-period dates,0,PASS,Retained after check
+Invalid numeric cells,0,PASS,Retained after check
+Negative counts,0,PASS,Retained after check
+Noninteger counts,0,PASS,Retained after check
+Duplicate hospital-date-cause keys,0,PASS,Retained after check
+Age sum differs from Total,0,PASS,Retained after check
+Unexpected selected scope,0,PASS,Retained after check
+Whitespace in source ID,2902,REVIEW,CORRECTED only in derived id; original retained
+Recorded zero child counts,12385,REVIEW,RETAINED; zero is not an absent record
+IDs with multiple display names,2,REVIEW,RETAINED; group by stable ID

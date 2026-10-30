@@ -1,0 +1,19 @@
+{
+  "group": "09",
+  "seed": 42,
+  "mode": "full-source",
+  "source_rows_scanned": 17872309,
+  "selected_cause_rows": 37976,
+  "paired_hospital_days": 18988,
+  "panel_hospitals": 22,
+  "observed_hospitals": 26,
+  "sample_rows": 4752,
+  "train_rows": 9487,
+  "validation_rows": 4726,
+  "test_rows": 4775,
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.5.4",
+  "all_blocking_checks_passed": true,
+  "predictive_model_fitted": false
+}

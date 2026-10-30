@@ -1,0 +1,17 @@
+variable,expected_type,definition_and_constraint,missing_value_meaning
+IdEstablecimiento / id,text,Nonempty stable hospital ID; trim surrounding whitespace only,Missing ID invalid; never infer from hospital name
+fecha / date,date,2023-01-01 through 2024-12-31; source dd/mm/yyyy,Missing date invalid
+IdCausa,integer category,1 all emergencies; 2 respiratory subset,Missing cause invalid
+Total,integer count,Nonnegative; equal sum of five age groups,Missing not zero
+Menores_1,integer count,Visits under age 1; nonnegative,Missing not zero
+De_1_a_4,integer count,Visits ages 1–4; nonnegative,Missing not zero
+De_5_a_14,integer count,Visits ages 5–14; nonnegative,Missing not zero
+De_15_a_64 / De_65_y_mas,integer counts,"Older age groups, used for total reconciliation",Missing not zero
+under_15,integer count,"Sum of first three age columns, within one cause",Undefined if an input age count is missing
+CodigoRegion / GLOSATIPOESTABLECIMIENTO,categories,13 / Hospital in this extract,Provider location; not patient residence
+NEstablecimiento,text label,Official observed name; never use as key,Name variation does not imply a new hospital
+GLOSATIPOATENCION / GlosaTipoCampana,text categories,Retain original service/campaign labels,Not assumed to be patient attributes
+respiratory / all_cause,integer counts,Paired under-15 values from causes 2 / 1,Unmatched causes invalid
+share_pct,decimal percent,100 × respiratory / all_cause; 0–100 when defined,Undefined when all_cause is zero
+lag7_resp,decimal or missing,Same hospital count exactly seven calendar days earlier,Missing earlier report/history; training-only imputation for demo
+published_at,not supplied,Would be needed to establish prospective availability,Unknown; no operational forecasting claim
